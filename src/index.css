@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font: sans-serif;
+  background-color: #1f1f1f;
+}
+
+body {
+  margin: 0;
+}
+
+label {
+  color: white;
+}
+
+h1 {
+  font-family: 'Qahiri', sans-serif;
+  font-size: 60px;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
